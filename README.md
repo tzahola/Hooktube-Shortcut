@@ -1,5 +1,7 @@
 # Hooktube Shortcut for iOS
 
+Instantly open any YouTube URL on [Hooktube](https://hooktube.com) via this iOS shortcut. 
+
 ![screenshot](https://github.com/tzahola/Hooktube-Shortcut/raw/master/screenshot.jpg)
 
 ## Installation
